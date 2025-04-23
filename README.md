@@ -13,6 +13,7 @@ python port_scanner.py
 ```
 
 Then enter the IP or hostname when prompted.
+Try the Streamlit interface by running: streamlit run header_ui.py
 
 ## Note
 Requires Python 3. Threaded socket scanning for educational use only.
